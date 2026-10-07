@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 610" width="800" height="610" role="img" aria-labelledby="t d">
+<title id="t">Netsenti AI</title>
+<desc id="d">Cartão do projeto Netsenti AI: inteligência artificial aplicada à cibersegurança e à segurança digital, com um escudo formado por uma rede de nós conectados.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050A18"/><stop offset="1" stop-color="#0A1636"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.8"/><stop offset="0.5" stop-color="#1E3A8A" stop-opacity="0.4"/><stop offset="1" stop-color="#2563EB" stop-opacity="0.7"/></linearGradient>
+<radialGradient id="gl" cx="400" cy="170" r="300" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.28"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<pattern id="gr" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#5B8CFF" stroke-opacity="0.06"/></pattern>
+<filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect x="1" y="1" width="798" height="608" rx="26" fill="url(#bg)"/>
+<rect x="1" y="1" width="798" height="608" rx="26" fill="url(#gr)"/>
+<rect x="1" y="1" width="798" height="608" rx="26" fill="url(#gl)"/>
+<rect x="1" y="1" width="798" height="608" rx="26" fill="none" stroke="url(#bd)" stroke-width="1.5"/>
+<g transform="translate(400 170) scale(1.1)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M0,-86 L72,-58 V8 C72,52 38,78 0,94 C-38,78 -72,52 -72,8 V-58 Z" fill="#22D3EE" fill-opacity="0.12" filter="url(#b)"/>
+<path d="M0,-86 L72,-58 V8 C72,52 38,78 0,94 C-38,78 -72,52 -72,8 V-58 Z" stroke="#67E8F9" stroke-width="2.2" fill="#07122E" fill-opacity="0.85"/>
+<path d="M0,-70 L58,-47 V6 C58,42 31,63 0,77 C-31,63 -58,42 -58,6 V-47 Z" stroke="#2563EB" stroke-opacity="0.6" stroke-width="1"/>
+<g stroke="#38BDF8" stroke-opacity="0.8" stroke-width="1.4"><path d="M0,-34 L-28,2 M0,-34 L28,2 M-28,2 L0,40 M28,2 L0,40 M-28,2 L28,2 M0,-34 L0,40"/></g>
+<g fill="#E0F7FF"><circle cx="0" cy="-34" r="5"/><circle cx="-28" cy="2" r="4.2"/><circle cx="28" cy="2" r="4.2"/><circle cx="0" cy="40" r="5"/></g>
+</g>
+<text x="400" y="334" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#22D3EE" letter-spacing="4">PROJETO · IA × CIBERSEGURANÇA</text>
+<text x="400" y="418" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="80" font-weight="800" fill="#F0F7FF" letter-spacing="1">Netsenti AI</text>
+<text x="400" y="470" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="31" fill="#9DB6DC">IA aplicada à cibersegurança</text>
+<text x="400" y="512" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="31" fill="#9DB6DC">e à segurança digital.</text>
+<g transform="translate(270 540)"><rect width="260" height="40" rx="20" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.6"/><text x="130" y="27" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#A5F3FC" letter-spacing="1.5">netsenti.com  →</text></g>
+</svg>
