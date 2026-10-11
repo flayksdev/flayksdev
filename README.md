@@ -29,7 +29,7 @@ Representante brasileiro no SusHi Tech Tokyo 2026
   </picture>
 </a>
 
-**[Netsenti AI](https://netsenti.com)** — empresa fundada por mim, focada em inteligência artificial, cibersegurança e segurança digital. Mais em [netsenti.com](https://netsenti.com).
+**[Netsenti AI](https://netsenti.com)** — projeto próprio, criado por mim do conceito ao protótipo, focado em inteligência artificial, cibersegurança e segurança digital. Mais em [netsenti.com](https://netsenti.com).
 
 <br>
 
@@ -51,6 +51,15 @@ Representante brasileiro no SusHi Tech Tokyo 2026
 | **Fluxo de trabalho** | `Git` · `GitHub` |
 | **Áreas de foco** | `Engenharia de software` · `Inteligência artificial` · `Cibersegurança` |
 
+## Disponível para oportunidades
+
+Desenvolvedor de software (web, Android e IA), em **regime remoto**. Português nativo, inglês intermediário. Trabalho bem em equipe.
+
+## Formação
+
+- **Engenharia de Software** — graduação em andamento.
+- **Alura (2026)** — React 19, React com TypeScript, React full stack, JavaScript, Python, HTML e CSS, Padrões de API e Lógica de programação, além de trilhas introdutórias de Node.js, Cloud Security, Engenharia de Dados, Governança de Dados e UI Design.
+
 ## Reconhecimento
 
 - **International AI Awards 2026** — Bronze Winner, Best AI Innovation.
@@ -60,7 +69,7 @@ Representante brasileiro no SusHi Tech Tokyo 2026
 
 - **Base técnica** — HTML5, CSS3, JavaScript e Git.
 - **Aplicações modernas** — TypeScript, React, Next.js, Node.js e Python.
-- **Produto e empresa** — Netsenti AI e LarMatch.
+- **Projetos próprios** — Netsenti AI e LarMatch.
 - **2026** — International AI Awards: Bronze Winner, Best AI Innovation.
 - **2026** — SusHi Tech Tokyo: representante brasileiro.
 
@@ -69,7 +78,7 @@ Representante brasileiro no SusHi Tech Tokyo 2026
 - **IA aplicada** a problemas reais de produto.
 - **Cibersegurança** e segurança digital como parte do design, não como etapa final.
 - **Engenharia de software** sólida: APIs, bancos de dados e código que outras pessoas conseguem manter.
-- **Construção de produto**, do primeiro protótipo à operação, na Netsenti AI e no LarMatch.
+- **Construção de produto**, do conceito ao protótipo, na Netsenti AI e no LarMatch.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -94,6 +103,8 @@ Representante brasileiro no SusHi Tech Tokyo 2026
 
 ## Contato
 
+- **LinkedIn:** [flayks-oliveira](https://www.linkedin.com/in/flayks-oliveira/)
+- **E-mail:** [flayksdev@gmail.com](mailto:flayksdev@gmail.com)
 - **Site:** [netsenti.com](https://netsenti.com)
 - **GitHub:** [@flayksdev](https://github.com/flayksdev)
 
