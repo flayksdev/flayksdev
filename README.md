@@ -42,11 +42,30 @@ Representante brasileiro no SusHi Tech Tokyo 2026
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## Stack
+## Linguagens e Tecnologias
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<br>
 
 | Área | Tecnologias |
 | :-- | :-- |
 | **Web e interface** | `HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React` · `Next.js` |
+| **Mobile** | `Aplicativos Android` |
 | **Backend e dados** | `Node.js` · `Python` · `APIs` · `Bancos de dados` |
 | **Fluxo de trabalho** | `Git` · `GitHub` |
 | **Áreas de foco** | `Engenharia de software` · `Inteligência artificial` · `Cibersegurança` |
@@ -86,6 +105,9 @@ Desenvolvedor de software (web, Android e IA), em **regime remoto**. Português 
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=flayksdev&show_icons=true&theme=tokyonight&bg_color=050A18&title_color=22D3EE&icon_color=3B82F6&text_color=F0F7FF&border_color=1E3A8A&count_private=true" alt="Estatísticas do GitHub de flayksdev">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flayksdev&layout=compact&theme=tokyonight&bg_color=050A18&title_color=22D3EE&text_color=F0F7FF&border_color=1E3A8A" alt="Linguagens mais usadas por flayksdev">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=flayksdev&theme=dark&background=050A18&ring=22D3EE&fire=3B82F6&currStreakLabel=A5F3FC&sideLabels=9DB6DC&currStreakNum=F0F7FF&sideNums=F0F7FF&dates=5F7BAA&border=1E3A8A&hide_border=false" alt="Sequência de contribuições de flayksdev, dados do serviço github-readme-streak-stats" width="100%">
 
 </div>
@@ -103,10 +125,14 @@ Desenvolvedor de software (web, Android e IA), em **regime remoto**. Português 
 
 ## Contato
 
-- **LinkedIn:** [flayks-oliveira](https://www.linkedin.com/in/flayks-oliveira/)
-- **E-mail:** [flayksdev@gmail.com](mailto:flayksdev@gmail.com)
-- **Site:** [netsenti.com](https://netsenti.com)
-- **GitHub:** [@flayksdev](https://github.com/flayksdev)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-flayks--oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flayks-oliveira/)
+[![E-mail](https://img.shields.io/badge/E--mail-flayksdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flayksdev@gmail.com)
+[![Netsenti AI](https://img.shields.io/badge/Netsenti_AI-netsenti.com-0B1220?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://netsenti.com)
+[![GitHub](https://img.shields.io/badge/GitHub-flayksdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flayksdev)
+
+</div>
 
 <div align="center">
   <sub>FLAYKS OLIVEIRA · Software Engineer · Founder · AI · Cybersecurity</sub>
