@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" width="1000" height="330" role="img" aria-labelledby="t d">
+<title id="t">Pipeline de IA e pontos de segurança</title>
+<desc id="d">Cinco etapas de um sistema de IA: dados, modelo, avaliação, guardrails e monitoramento. Abaixo de cada etapa, o que proteger nela.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050A18"/><stop offset="1" stop-color="#0A1636"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.8"/><stop offset="0.5" stop-color="#1E3A8A" stop-opacity="0.4"/><stop offset="1" stop-color="#2563EB" stop-opacity="0.7"/></linearGradient>
+<radialGradient id="gl" cx="500" cy="165.0" r="500.0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.16"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<pattern id="gr" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#5B8CFF" stroke-opacity="0.06"/></pattern>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="#67E8F9" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<rect x="1" y="1" width="998" height="328" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="998" height="328" rx="22" fill="url(#gr)"/>
+<rect x="1" y="1" width="998" height="328" rx="22" fill="url(#gl)"/>
+<rect x="1" y="1" width="998" height="328" rx="22" fill="none" stroke="url(#bd)" stroke-width="1.5"/>
+<rect x="20" y="28" width="174" height="70" rx="14" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.6"/>
+<text x="36" y="54" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2.5">ETAPA 1</text>
+<text x="36" y="82" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#F0F7FF">Dados</text>
+<path d="M197,63 L207,63" stroke="#67E8F9" stroke-width="1.8" marker-end="url(#ar)"/>
+<line x1="107.0" y1="98" x2="107.0" y2="134" stroke="#22D3EE" stroke-opacity="0.45" stroke-dasharray="3 4"/>
+<rect x="20" y="134" width="174" height="168" rx="14" fill="#07122E" fill-opacity="0.8" stroke="#2563EB" stroke-opacity="0.55"/>
+<g transform="translate(50 166) scale(0.7)"><g fill="none" stroke="#67E8F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0,-14 L11,-10 V1 C11,8 6,12 0,15 C-6,12 -11,8 -11,1 V-10 Z"/><path d="M-4.5,1 L-1,4.5 L5,-3"/></g></g>
+<text x="72" y="171" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2.5">PROTEGER</text>
+<text x="36" y="206" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">Origem confiável,</text>
+<text x="36" y="228" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">integridade e</text>
+<text x="36" y="250" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">proteção contra</text>
+<text x="36" y="272" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">envenenamento</text>
+<rect x="210" y="28" width="174" height="70" rx="14" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.6"/>
+<text x="226" y="54" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2.5">ETAPA 2</text>
+<text x="226" y="82" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#F0F7FF">Modelo</text>
+<path d="M387,63 L397,63" stroke="#67E8F9" stroke-width="1.8" marker-end="url(#ar)"/>
+<line x1="297.0" y1="98" x2="297.0" y2="134" stroke="#22D3EE" stroke-opacity="0.45" stroke-dasharray="3 4"/>
+<rect x="210" y="134" width="174" height="168" rx="14" fill="#07122E" fill-opacity="0.8" stroke="#2563EB" stroke-opacity="0.55"/>
+<g transform="translate(240 166) scale(0.7)"><g fill="none" stroke="#67E8F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0,-14 L11,-10 V1 C11,8 6,12 0,15 C-6,12 -11,8 -11,1 V-10 Z"/><path d="M-4.5,1 L-1,4.5 L5,-3"/></g></g>
+<text x="262" y="171" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2.5">PROTEGER</text>
+<text x="226" y="206" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">Cadeia de</text>
+<text x="226" y="228" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">suprimentos verificada</text>
+<text x="226" y="250" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">e acesso restrito</text>
+<text x="226" y="272" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">aos pesos</text>
+<rect x="400" y="28" width="174" height="70" rx="14" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.6"/>
+<text x="416" y="54" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2.5">ETAPA 3</text>
+<text x="416" y="82" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#F0F7FF">Avaliação</text>
+<path d="M577,63 L587,63" stroke="#67E8F9" stroke-width="1.8" marker-end="url(#ar)"/>
+<line x1="487.0" y1="98" x2="487.0" y2="134" stroke="#22D3EE" stroke-opacity="0.45" stroke-dasharray="3 4"/>
+<rect x="400" y="134" width="174" height="168" rx="14" fill="#07122E" fill-opacity="0.8" stroke="#2563EB" stroke-opacity="0.55"/>
+<g transform="translate(430 166) scale(0.7)"><g fill="none" stroke="#67E8F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0,-14 L11,-10 V1 C11,8 6,12 0,15 C-6,12 -11,8 -11,1 V-10 Z"/><path d="M-4.5,1 L-1,4.5 L5,-3"/></g></g>
+<text x="452" y="171" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2.5">PROTEGER</text>
+<text x="416" y="206" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">Testes com casos</text>
+<text x="416" y="228" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">reais e adversariais</text>
+<text x="416" y="250" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">e medição de falsos</text>
+<text x="416" y="272" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">positivos</text>
+<rect x="590" y="28" width="174" height="70" rx="14" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.6"/>
+<text x="606" y="54" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2.5">ETAPA 4</text>
+<text x="606" y="82" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#F0F7FF">Guardrails</text>
+<path d="M767,63 L777,63" stroke="#67E8F9" stroke-width="1.8" marker-end="url(#ar)"/>
+<line x1="677.0" y1="98" x2="677.0" y2="134" stroke="#22D3EE" stroke-opacity="0.45" stroke-dasharray="3 4"/>
+<rect x="590" y="134" width="174" height="168" rx="14" fill="#07122E" fill-opacity="0.8" stroke="#2563EB" stroke-opacity="0.55"/>
+<g transform="translate(620 166) scale(0.7)"><g fill="none" stroke="#67E8F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0,-14 L11,-10 V1 C11,8 6,12 0,15 C-6,12 -11,8 -11,1 V-10 Z"/><path d="M-4.5,1 L-1,4.5 L5,-3"/></g></g>
+<text x="642" y="171" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2.5">PROTEGER</text>
+<text x="606" y="206" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">Validação de entrada</text>
+<text x="606" y="228" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">e saída, menor</text>
+<text x="606" y="250" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">privilégio e revisão</text>
+<text x="606" y="272" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">humana</text>
+<rect x="780" y="28" width="174" height="70" rx="14" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.6"/>
+<text x="796" y="54" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2.5">ETAPA 5</text>
+<text x="796" y="82" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#F0F7FF">Monitoramento</text>
+<line x1="867.0" y1="98" x2="867.0" y2="134" stroke="#22D3EE" stroke-opacity="0.45" stroke-dasharray="3 4"/>
+<rect x="780" y="134" width="174" height="168" rx="14" fill="#07122E" fill-opacity="0.8" stroke="#2563EB" stroke-opacity="0.55"/>
+<g transform="translate(810 166) scale(0.7)"><g fill="none" stroke="#67E8F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0,-14 L11,-10 V1 C11,8 6,12 0,15 C-6,12 -11,8 -11,1 V-10 Z"/><path d="M-4.5,1 L-1,4.5 L5,-3"/></g></g>
+<text x="832" y="171" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2.5">PROTEGER</text>
+<text x="796" y="206" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">Logs, alertas e</text>
+<text x="796" y="228" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">detecção de abuso</text>
+<text x="796" y="250" text-anchor="start" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CFE3FF">ou desvio do modelo</text>
+</svg>
