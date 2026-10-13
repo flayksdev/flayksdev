@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-labelledby="t">
+<title id="t">Estatísticas públicas do GitHub de flayksdev</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050A18"/><stop offset="1" stop-color="#0A1636"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.8"/><stop offset="0.5" stop-color="#1E3A8A" stop-opacity="0.4"/><stop offset="1" stop-color="#2563EB" stop-opacity="0.7"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<pattern id="gr" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#5B8CFF" stroke-opacity="0.06"/></pattern>
+</defs>
+<rect x="1" y="1" width="998" height="298" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="998" height="298" rx="22" fill="url(#gr)"/>
+<rect x="1" y="1" width="998" height="298" rx="22" fill="none" stroke="url(#bd)" stroke-width="1.5"/>
+<line x1="520" y1="34" x2="520" y2="244" stroke="#5B8CFF" stroke-opacity="0.2"/>
+<text x="44" y="60" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2">REPOSITÓRIOS PÚBLICOS</text>
+<text x="44" y="106" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#F0F7FF">—</text>
+<text x="284" y="60" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2">ESTRELAS RECEBIDAS</text>
+<text x="284" y="106" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#F0F7FF">—</text>
+<text x="44" y="160" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2">SEGUIDORES</text>
+<text x="44" y="206" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#F0F7FF">—</text>
+<text x="284" y="160" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2">CONTRIBUIÇÕES · 12 MESES</text>
+<text x="284" y="206" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#F0F7FF">—</text>
+<text x="560" y="60" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="2">LINGUAGENS MAIS USADAS</text>
+<text x="560" y="110" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9DB6DC">Os dados aparecem aqui assim que a primeira</text>
+<text x="560" y="134" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9DB6DC">atualização automática for concluída.</text>
+<text x="44" y="272" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9DB6DC">Atualização automática diária · dados públicos da API do GitHub</text>
+</svg>

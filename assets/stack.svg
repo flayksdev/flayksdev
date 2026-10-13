@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 388" width="1000" height="388" role="img" aria-labelledby="t d">
+<title id="t">Stack</title>
+<desc id="d">Tecnologias por área: linguagens, web e interface, backend e dados, mobile, fluxo de trabalho e áreas de foco.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050A18"/><stop offset="1" stop-color="#0A1636"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.8"/><stop offset="0.5" stop-color="#1E3A8A" stop-opacity="0.4"/><stop offset="1" stop-color="#2563EB" stop-opacity="0.7"/></linearGradient>
+<radialGradient id="gl" cx="200" cy="194.0" r="500.0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.16"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<pattern id="gr" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#5B8CFF" stroke-opacity="0.06"/></pattern>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="#67E8F9" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<rect x="1" y="1" width="998" height="386" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="998" height="386" rx="22" fill="url(#gr)"/>
+<rect x="1" y="1" width="998" height="386" rx="22" fill="url(#gl)"/>
+<rect x="1" y="1" width="998" height="386" rx="22" fill="none" stroke="url(#bd)" stroke-width="1.5"/>
+<text x="36" y="55" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#22D3EE" letter-spacing="2.5">LINGUAGENS</text>
+<rect x="250" y="32" width="93" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="296.5" y="57" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">Python</text>
+<rect x="355" y="32" width="132" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="421.0" y="57" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">TypeScript</text>
+<rect x="499" y="32" width="132" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="565.0" y="57" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">JavaScript</text>
+<line x1="36" y1="80" x2="964" y2="80" stroke="#5B8CFF" stroke-opacity="0.12"/>
+<text x="36" y="113" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#22D3EE" letter-spacing="2.5">WEB E INTERFACE</text>
+<rect x="250" y="90" width="84" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="292.0" y="115" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">HTML5</text>
+<rect x="346" y="90" width="74" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="383.0" y="115" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">CSS3</text>
+<rect x="432" y="90" width="84" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="474.0" y="115" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">React</text>
+<rect x="528" y="90" width="103" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="579.5" y="115" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">Next.js</text>
+<line x1="36" y1="138" x2="964" y2="138" stroke="#5B8CFF" stroke-opacity="0.12"/>
+<text x="36" y="171" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#22D3EE" letter-spacing="2.5">BACKEND E DADOS</text>
+<rect x="250" y="148" width="103" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="301.5" y="173" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">Node.js</text>
+<rect x="365" y="148" width="74" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="402.0" y="173" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">APIs</text>
+<rect x="451" y="148" width="180" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="541.0" y="173" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">Bancos de dados</text>
+<line x1="36" y1="196" x2="964" y2="196" stroke="#5B8CFF" stroke-opacity="0.12"/>
+<text x="36" y="229" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#22D3EE" letter-spacing="2.5">MOBILE</text>
+<rect x="250" y="206" width="103" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="301.5" y="231" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">Android</text>
+<line x1="36" y1="254" x2="964" y2="254" stroke="#5B8CFF" stroke-opacity="0.12"/>
+<text x="36" y="287" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#22D3EE" letter-spacing="2.5">FLUXO DE TRABALHO</text>
+<rect x="250" y="264" width="64" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="282.0" y="289" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">Git</text>
+<rect x="326" y="264" width="93" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="372.5" y="289" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">GitHub</text>
+<line x1="36" y1="312" x2="964" y2="312" stroke="#5B8CFF" stroke-opacity="0.12"/>
+<text x="36" y="345" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#22D3EE" letter-spacing="2.5">ÁREAS DE FOCO</text>
+<rect x="250" y="322" width="256" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="378.0" y="347" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">Inteligência artificial</text>
+<rect x="518" y="322" width="170" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="603.0" y="347" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">Cibersegurança</text>
+<rect x="700" y="322" width="247" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/>
+<text x="823.5" y="347" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#E0F7FF">Engenharia de software</text>
+</svg>

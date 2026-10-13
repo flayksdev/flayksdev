@@ -17,17 +17,18 @@ IA que ajuda a defender sistemas · Sistemas de IA que precisam ser defendidos
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-flayks--oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flayks-oliveira/)
-[![E-mail](https://img.shields.io/badge/E--mail-flayksdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flayksdev@gmail.com)
-[![Netsenti AI](https://img.shields.io/badge/Netsenti_AI-netsenti.com-0B1220?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://netsenti.com)
+<a href="https://www.linkedin.com/in/flayks-oliveira/"><img src="assets/btn-linkedin.svg" alt="LinkedIn: flayks-oliveira" height="56"></a>
+<a href="mailto:flayksdev@gmail.com"><img src="assets/btn-email.svg" alt="E-mail: flayksdev@gmail.com" height="56"></a>
+<a href="https://netsenti.com"><img src="assets/btn-netsenti.svg" alt="Site: netsenti.com" height="56"></a>
 
-<sub>[IA](#-inteligência-artificial) · [Cibersegurança](#-cibersegurança) · [IA × Segurança](#-onde-ia-e-cibersegurança-se-encontram) · [Projetos](#-projetos) · [Stack](#-stack) · [Contato](#-contato)</sub>
+<sub><a href="#foco">Foco</a> · <a href="#ia">IA</a> · <a href="#ciber">Cibersegurança</a> · <a href="#cruzamento">IA × Segurança</a> · <a href="#projetos">Projetos</a> · <a href="#stack">Stack</a> · <a href="#contato">Contato</a></sub>
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<br>
 
-## 🎯 Foco
+<a name="foco"></a>
+<img src="assets/sec-foco.svg" alt="Foco de atuação" width="100%">
 
 Sou fundador da [Netsenti AI](https://netsenti.com) e trabalho na interseção de duas áreas que se influenciam o tempo todo:
 
@@ -39,9 +40,10 @@ Sou fundador da [Netsenti AI](https://netsenti.com) e trabalho na interseção d
 
 > 🇯🇵 Representante brasileiro no **SusHi Tech Tokyo 2026** · 🥉 **Bronze Winner, Best AI Innovation** — International AI Awards 2026
 
-<img src="assets/divider.svg" alt="" width="100%">
+<br>
 
-## 🤖 Inteligência Artificial
+<a name="ia"></a>
+<img src="assets/sec-ia.svg" alt="Inteligência Artificial" width="100%">
 
 Um mapa resumido do que a área contém e de como eu a organizo.
 
@@ -76,7 +78,7 @@ Um mapa resumido do que a área contém e de como eu a organizo.
 
 | Família | Exemplos | Quando faz sentido |
 | :-- | :-- | :-- |
-| **Machine learning clássico** | Regressão, árvores de decisão, Random Forest, gradient boosting, SVM | Dados tabulares, problemas com poucos dados, necessidade de explicabilidade. |
+| **Machine learning clássico** | Regressão, árvores de decisão, Random Forest, gradient boosting, SVM | Dados tabulares, poucos dados, necessidade de explicabilidade. |
 | **Deep learning** | Redes convolucionais (CNN), recorrentes (RNN/LSTM), Transformers | Imagem, áudio, texto e dados complexos em grande volume. |
 | **IA generativa** | LLMs, modelos de difusão, GANs, VAEs | Gerar texto, código, imagem; conversar; resumir. |
 | **Sistemas com agentes** | LLM + ferramentas + memória + planejamento | Tarefas de várias etapas que exigem consultar e agir em outros sistemas. |
@@ -84,7 +86,7 @@ Um mapa resumido do que a área contém e de como eu a organizo.
 </details>
 
 <details>
-<summary><b>Técnicas que uso ou estudo em aplicações com LLM</b></summary>
+<summary><b>Técnicas em aplicações com LLM</b></summary>
 <br>
 
 - **Engenharia de prompt:** instruções claras, exemplos e formato de saída definido.
@@ -96,9 +98,14 @@ Um mapa resumido do que a área contém e de como eu a organizo.
 
 </details>
 
-<img src="assets/divider.svg" alt="" width="100%">
+Em um sistema de IA, cada etapa do fluxo tem um risco próprio. O diagrama mostra o que proteger em cada uma:
 
-## 🛡️ Cibersegurança
+<img src="assets/ia-pipeline.svg" alt="Pipeline de IA em cinco etapas (dados, modelo, avaliação, guardrails, monitoramento) e o que proteger em cada uma" width="100%">
+
+<br>
+
+<a name="ciber"></a>
+<img src="assets/sec-ciber.svg" alt="Cibersegurança" width="100%">
 
 <details open>
 <summary><b>Princípios que guiam as decisões</b></summary>
@@ -125,7 +132,6 @@ Um mapa resumido do que a área contém e de como eu a organizo.
 | **Código seguro** | Validação e sanitização de entrada, consultas parametrizadas, tratamento de erros, revisão de código |
 | **Cadeia de suprimentos** | Análise de dependências, atualização de pacotes vulneráveis, lockfiles |
 | **Detecção** | Logs centralizados, monitoramento, alertas, SIEM, análise de comportamento |
-| **Resposta a incidentes** | Preparação → detecção e análise → contenção, erradicação e recuperação → lições aprendidas |
 | **Resiliência** | Backups testados, segmentação de rede, plano de recuperação |
 
 </details>
@@ -141,41 +147,27 @@ Um mapa resumido do que a área contém e de como eu a organizo.
 
 </details>
 
-<img src="assets/divider.svg" alt="" width="100%">
+Resposta a incidentes é um ciclo, não uma lista de tarefas isoladas: o que se aprende no fim melhora a preparação do começo.
 
-## 🔗 Onde IA e cibersegurança se encontram
+<img src="assets/incident-response.svg" alt="Ciclo de resposta a incidentes: preparação, detecção e análise, contenção e recuperação, lições aprendidas" width="100%">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### IA para defender
+<a name="cruzamento"></a>
+<img src="assets/sec-cruzamento.svg" alt="IA × Cibersegurança" width="100%">
 
-- **Detecção de anomalias** em logs e tráfego de rede
-- **Classificação** de phishing, spam e malware
-- **Análise de comportamento** de usuários e contas (UEBA)
-- **Triagem de alertas** e resumo de incidentes com LLMs, sempre com revisão humana
+A IA entra na segurança de duas maneiras: como ferramenta de defesa e como sistema que precisa ser protegido.
 
-</td>
-<td width="50%" valign="top">
+<img src="assets/ia-seguranca.svg" alt="À esquerda, IA para defender: detecção de anomalias, classificação, análise de comportamento e triagem de alertas. À direita, proteger a IA: prompt injection, vazamento de dados, excesso de autonomia e ataques adversariais" width="100%">
 
-### Proteger a IA
+<br>
 
-- **Prompt injection:** instruções maliciosas escondidas em texto que o modelo processa
-- **Vazamento de dados sensíveis** em respostas ou no treino
-- **Excesso de autonomia:** agentes com permissões demais
-- **Envenenamento de dados** e ataques à cadeia de suprimentos de modelos
-- **Ataques adversariais:** entradas feitas para enganar o modelo
+Referência para o segundo lado: o projeto **OWASP Top 10 for LLM Applications**. As defesas combinam validação de entrada e saída, menor privilégio para agentes, separação entre dados e instruções, monitoramento e revisão humana.
 
-</td>
-</tr>
-</table>
+<br>
 
-Referência para esse segundo lado: o projeto **OWASP Top 10 for LLM Applications**. As defesas combinam validação de entrada e saída, menor privilégio para agentes, separação entre dados e instruções, monitoramento e revisão humana.
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## 🚀 Projetos
+<a name="projetos"></a>
+<img src="assets/sec-projetos.svg" alt="Projetos" width="100%">
 
 <a href="https://netsenti.com">
   <picture>
@@ -196,61 +188,48 @@ Referência para esse segundo lado: o projeto **OWASP Top 10 for LLM Application
 
 **LarMatch** é um produto de descoberta de imóveis personalizada, que conecta cada pessoa aos imóveis que fazem sentido para o que ela procura.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<br>
 
-## 🛠️ Stack
+<a name="stack"></a>
+<img src="assets/sec-stack.svg" alt="Stack" width="100%">
 
-<div align="center">
+<img src="assets/stack.svg" alt="Stack: Python, TypeScript, JavaScript, HTML5, CSS3, React, Next.js, Node.js, APIs, bancos de dados, Android, Git e GitHub" width="100%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br>
 
-</div>
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## 🎓 Formação e estudos
+<img src="assets/sec-formacao.svg" alt="Formação e estudos" width="100%">
 
 - **Engenharia de Software** — graduação em andamento.
 - **Alura (2026)** — React 19, React com TypeScript, React full stack, JavaScript, Python, HTML e CSS, Padrões de API e Lógica de programação, além de trilhas introdutórias de Node.js, **Cloud Security**, Engenharia de Dados, Governança de Dados e UI Design.
 - **Idiomas** — português nativo, inglês intermediário.
 
-## 💼 Disponível para oportunidades
+<br>
+
+<img src="assets/sec-oportunidades.svg" alt="Disponível para oportunidades" width="100%">
 
 Busco vaga de **desenvolvedor de software** (web, Android e IA), de preferência em **regime remoto**. Trabalho bem em equipe e gosto de aprender com quem sabe mais.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<br>
 
-## 📊 Atividade no GitHub
+<img src="assets/sec-atividade.svg" alt="Atividade no GitHub" width="100%">
 
-<div align="center">
+<img src="assets/stats.svg" alt="Estatísticas públicas do GitHub de flayksdev: repositórios, estrelas, seguidores, contribuições e linguagens mais usadas" width="100%">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=flayksdev&show_icons=true&theme=tokyonight&bg_color=050A18&title_color=22D3EE&icon_color=3B82F6&text_color=F0F7FF&border_color=1E3A8A&count_private=true" alt="Estatísticas do GitHub de flayksdev">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flayksdev&layout=compact&theme=tokyonight&bg_color=050A18&title_color=22D3EE&text_color=F0F7FF&border_color=1E3A8A" alt="Linguagens mais usadas por flayksdev">
+<sub>Gerado automaticamente todos os dias por um workflow deste repositório, a partir de dados públicos; não inclui contribuições privadas.</sub>
 
-</div>
+<br>
 
-<sub>Gráficos gerados por serviço de terceiros a partir de dados públicos do perfil; não são dados oficiais do GitHub. Se a imagem não carregar, o perfil completo está em [github.com/flayksdev](https://github.com/flayksdev).</sub>
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## 📬 Contato
+<a name="contato"></a>
+<img src="assets/sec-contato.svg" alt="Contato" width="100%">
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-flayks--oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flayks-oliveira/)
-[![E-mail](https://img.shields.io/badge/E--mail-flayksdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flayksdev@gmail.com)
-[![Netsenti AI](https://img.shields.io/badge/Netsenti_AI-netsenti.com-0B1220?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://netsenti.com)
-[![GitHub](https://img.shields.io/badge/GitHub-flayksdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flayksdev)
+<a href="https://www.linkedin.com/in/flayks-oliveira/"><img src="assets/btn-linkedin.svg" alt="LinkedIn: flayks-oliveira" height="56"></a>
+<a href="mailto:flayksdev@gmail.com"><img src="assets/btn-email.svg" alt="E-mail: flayksdev@gmail.com" height="56"></a>
+<a href="https://netsenti.com"><img src="assets/btn-netsenti.svg" alt="Site: netsenti.com" height="56"></a>
+<a href="https://github.com/flayksdev"><img src="assets/btn-github.svg" alt="GitHub: @flayksdev" height="56"></a>
+
+<br>
 
 <sub>FLAYKS OLIVEIRA · Software Engineer · Founder · AI · Cybersecurity</sub>
 
