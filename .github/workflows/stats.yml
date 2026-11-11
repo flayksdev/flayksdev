@@ -32,8 +32,8 @@ jobs:
       - name: Salvar se mudou
         run: |
           if [ -n "$(git status --porcelain assets/stats.svg)" ]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git config user.name "Flayks Max Conceição de Oliveira"
+            git config user.email "flayksdev@gmail.com"
             git add assets/stats.svg
             git commit -m "chore: atualizar estatísticas do perfil"
             git push
